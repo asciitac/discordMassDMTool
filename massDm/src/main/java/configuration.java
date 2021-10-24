@@ -1,6 +1,6 @@
 public class configuration {
-    String token = "INSERT TOKEN HERE";
-    String serverID = "INSERT SERVER ID HERE";
+    String token = "ODgzNjAxNDk0MTg2NzkwOTUz.YXCPtw.t-Vc08A4TxeAB-JnVnSSazHKwjg";
+    String serverID = "900927749261234207";
         String whitelist = "INPUT USER IDs HERE, SEPARATE WITH COMMAS";
     String message = "";
     // Syntax
